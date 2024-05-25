@@ -1,0 +1,72 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/cycloid-schizophrenia-spectrum---primary.py
+inputModule3:
+  class: File
+  path: python/schizophrenia-spectrum-delusion---primary.py
+inputModule4:
+  class: File
+  path: python/schizophrenia-spectrum-schizophrenifrm---primary.py
+inputModule5:
+  class: File
+  path: python/schizophrenia-spectrum-paranoia---primary.py
+inputModule6:
+  class: File
+  path: python/schizophrenia-spectrum-psychot---primary.py
+inputModule7:
+  class: File
+  path: python/xrecurrent-schizophrenia-spectrum---primary.py
+inputModule8:
+  class: File
+  path: python/xschizoaffective-schizophrenia-spectrum---primary.py
+inputModule9:
+  class: File
+  path: python/schizophrenia-spectrum-psych---primary.py
+inputModule10:
+  class: File
+  path: python/schizophrenia-spectrum---primary.py
+inputModule11:
+  class: File
+  path: python/disintegrative-schizophrenia-spectrum---primary.py
+inputModule12:
+  class: File
+  path: python/schizophrenia-spectrum-xinduced---primary.py
+inputModule13:
+  class: File
+  path: python/persistent-schizophrenia-spectrum---primary.py
+inputModule14:
+  class: File
+  path: python/schizophrenia-spectrum-dhallucination---primary.py
+inputModule15:
+  class: File
+  path: python/schizophrenia-spectrum-paraphrenia---primary.py
+inputModule16:
+  class: File
+  path: python/schizophrenia-spectrum-childhood---primary.py
+inputModule17:
+  class: File
+  path: python/schizophrenia-spectrum-persecution---primary.py
+inputModule18:
+  class: File
+  path: python/psychogenic-schizophrenia-spectrum---primary.py
+inputModule19:
+  class: File
+  path: python/schizophrenia-spectrum-state---primary.py
+inputModule20:
+  class: File
+  path: python/reactive-schizophrenia-spectrum---primary.py
+inputModule21:
+  class: File
+  path: python/catatonic-schizophrenia-spectrum---primary.py
+inputModule22:
+  class: File
+  path: python/schizophrenia-spectrum-xsingle---primary.py
+inputModule23:
+  class: File
+  path: python/schizophrenia-spectrum-capgras---primary.py
+inputModule24:
+  class: File
+  path: python/output-cases.py
